@@ -1,3 +1,2 @@
 # JavaScript
-Estou aprendendo JavaScript
- 
+ Curso JavaScript curso em video
